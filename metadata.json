@@ -1,0 +1,5 @@
+{
+  "name": "xDrive FC26 Tournament Registration",
+  "description": "An internal web form for xDrive employees to register for the FC26 football tournament. It includes fields for personal details, team information, and captures consent according to KVKK.",
+  "requestFramePermissions": []
+}
